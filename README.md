@@ -12,5 +12,5 @@ Data is captured from various sensors from a energy manufacturing plant on speci
 'X5' : reading from sensor five,
 'target' : Anomaly(0 or 1) }
 
-**Models implemented: **  Classical models- Logistic regression, KNN, Decision trees, SVM; 
+**Models implemented:**   Classical models- Logistic regression, KNN, Decision trees, SVM; 
                           Advanced models- RandomForest, XGBoost, LightGBM, CatBoost
